@@ -1,17 +1,26 @@
-<<<<<<< HEAD
-# React + Vite
+# 💇‍♀️ SalonSphere – Appointment Booking Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SalonSphere is a responsive React-based web application designed for salon owners and customers to easily book appointments. It includes a clean and modern UI, dark mode support, and a popup modal form for seamless booking.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Appointment Booking Modal**  
+  Interactive popup form with date and time pickers
 
-## Expanding the ESLint configuration
+-  **Dark/Light Mode Support**  
+  Fully styled using Tailwind CSS with dark mode responsiveness
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# SalonSphere
-Developed a full-stack application for online salon and grooming booking service. The platform offers clickable service cards (e.g., haircuts, facials, hair color) for easy browsing and booking.
->>>>>>> 69194d595f26e00923e416d9b50b34ec9cf635f7
+- **Form Validation (Planned)**  
+  Input fields for name, email, service type, date, and time
+
+-  **Mobile Responsive UI**  
+  Smooth and consistent experience across all devices
+
+## 🛠 Tech Stack
+
+-  React.js
+- Tailwind CSS
+-  DaisyUI (optional for modal support)
+-  HTML/CSS
+- Node.js
+
