@@ -1,26 +1,39 @@
-# 💇‍♀️ SalonSphere – Appointment Booking Platform
+💇‍♀️ SalonSphere – Appointment Booking Platform
+SalonSphere is a responsive React web app that lets users easily book salon appointments with a sleek UI, date & time pickers, and dark mode support.
 
-SalonSphere is a responsive React-based web application designed for salon owners and customers to easily book appointments. It includes a clean and modern UI, dark mode support, and a popup modal form for seamless booking.
+🚀 Features
+📅 Book appointments with date & time picker (MUI + Day.js)
 
-## 🚀 Features
+🌗 Dark/Light mode (Tailwind CSS)
 
-- **Appointment Booking Modal**  
-  Interactive popup form with date and time pickers
+✅ Form validation (React Hook Form)
 
--  **Dark/Light Mode Support**  
-  Fully styled using Tailwind CSS with dark mode responsiveness
+📱 Mobile-friendly design
 
-- **Form Validation (Planned)**  
-  Input fields for name, email, service type, date, and time
+💾 Backend API to store and manage bookings (Node.js + Express + MongoDB)
 
--  **Mobile Responsive UI**  
-  Smooth and consistent experience across all devices
+📬 Contact & Feedback
+Users can easily send queries or feedback via the contact form, which is delivered directly to the SalonSphere admin email.
 
-## 🛠 Tech Stack
+🛠 Tech Stack
+Frontend
+React + Vite
 
--  React.js
-- Tailwind CSS
--  DaisyUI (optional for modal support)
--  HTML/CSS
-- Node.js
+Tailwind CSS
+
+MUI Date/Time Pickers
+
+React Hook Form
+
+Lucide Icons
+
+Backend
+Node.js + Express
+
+MongoDB + Mongoose
+
+POSTMAN API
+
+
+ 
 
